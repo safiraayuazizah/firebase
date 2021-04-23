@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "475337346757",
+    "project_id": "flutterfirebase-safira",
+    "storage_bucket": "flutterfirebase-safira.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475337346757:android:fcc69c10b9daebdb4a2aac",
+        "android_client_info": {
+          "package_name": "com.example.prak10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475337346757-vmt72nse4t0ne4tl4dumj9d7vhvt7ope.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prak10",
+            "certificate_hash": "2ce9cc2d742abb4262db404cf4f75b7067fba3dd"
+          }
+        },
+        {
+          "client_id": "475337346757-mr6d6dp7n73aej9i4knv87i58cgto10p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_xbciwN5HdeD62ieCSXA-KhfR5SOxhfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475337346757-mr6d6dp7n73aej9i4knv87i58cgto10p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
