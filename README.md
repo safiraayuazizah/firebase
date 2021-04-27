@@ -5,6 +5,10 @@
 ![hasil](images/pilihakun.jpg)
 # first screen
 ![hasil](images/ketiga.jpg)
+# tugas
+![hasil](images/1.jpg)
+![hasil](images/2.jpg)
+![hasil](images/3.jpg)
 
 A new Flutter project.
 

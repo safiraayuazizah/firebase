@@ -27,21 +27,21 @@ class FirstScreen extends StatelessWidget {
                 radius: 60,
                 backgroundColor: Colors.transparent,
               ),
-              SizedBox(height: 40),
-              Text(
-                'NAME',
-                style: TextStyle(
-                    fontSize: 15,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.black54),
-              ),
-              Text(
-                name,
-                style: TextStyle(
-                    fontSize: 25,
-                    color: Colors.deepPurple,
-                    fontWeight: FontWeight.bold),
-              ),
+              // SizedBox(height: 40),
+              // Text(
+              //   'NAME',
+              //   style: TextStyle(
+              //       fontSize: 15,
+              //       fontWeight: FontWeight.bold,
+              //       color: Colors.black54),
+              // ),
+              // Text(
+              //   name,
+              //   style: TextStyle(
+              //       fontSize: 25,
+              //       color: Colors.deepPurple,
+              //       fontWeight: FontWeight.bold),
+              // ),
               SizedBox(height: 20),
               Text(
                 'EMAIL',
